@@ -1,0 +1,36 @@
+body {
+    width: 900px;
+    background-image: url('../imagens/fundo.png');
+    font: 17px Ariel, helvetica, sans-serif;
+}
+
+.menu {
+    background: #c5c5b2;
+    padding: 18px;
+}
+
+ul,
+li {
+    display: flex;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #4b566a;
+    font: bold;
+    padding: 5px;
+}
+
+.cont {
+    background: #e8e8de;
+    padding: 10px;
+}
+
+.cont h1 {
+    color: forestgreen;
+}
+
+.rodape p {
+    text-align: center;
+}
